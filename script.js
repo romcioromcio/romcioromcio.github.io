@@ -8,7 +8,7 @@ $(document).ready(function() {
   var availableTasks = {};
 
   // init
-
+ 
   getAllTasks();
 
   function getAllAvailableBoards(callback, callbackArgs) {
